@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sarah 👋
 
-<!--
-**srouelle/srouelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data scientist &amp; ML practitioner — turning messy data into decisions that hold up.
 
-Here are some ideas to get you started:
+[Placeholder — 2–3 sentences on your background, what kind of problems you like solving, and what you're currently focused on.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently working with
+`python` `pandas` `scikit-learn` `pytorch` `sql` `tableau`
+
+### 🌐 Full portfolio
+See my project write-ups, skills breakdown, and full profile at **[srouelle.github.io](https://srouelle.github.io)**
+*(update this link once GitHub Pages is enabled — see PAGES_SETUP.md)*
+
+### 📫 Reach me
+- GitHub: [@srouelle](https://github.com/srouelle)
+- LinkedIn: [add your link]
+- Email: [add your email]
