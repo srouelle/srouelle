@@ -7,7 +7,5 @@ Data scientist — turning messy data into decisions that hold up.
 ### 🔭 Currently working with
 `python` `pandas` `scikit-learn` `pytorch` `sql` `tableau`
 
-### 🌐 Full portfolio
-See my project write-ups, skills breakdown, and full profile at **[srouelle.github.io](https://srouelle.github.io)**
-*(update this link once GitHub Pages is enabled — see PAGES_SETUP.md)*
-
+### 🌐 Full Portfolio
+See my project write-ups, skills breakdown at my **[Full Portfolio](https://srouelle.github.io)**
