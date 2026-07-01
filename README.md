@@ -1,18 +1,16 @@
-# Hi, I'm Samantha 👋
+# Samantha here,
 
 Solutions engineer — data migration, analytics, and process automation.
 
 Ambitious and creative solutions engineer with over 10 years of experience in the IT industry. I currently
-onboard and migrate sensitive client data at Decisiv Inc, maintaining a perfect security track record while
-building automated processes that make data cleaner and teams faster. I'm completing a BS in Data Science
-at Bellevue University (anticipated August 2026).
+onboard and migrate sensitive client data at a communications software organization. Maintaining a perfect security track record while
+building automated processes that make data cleaner and teams faster.
 
 ### 🔭 Currently working with
-`sql` `aws` `tableau` `open refine` `jira` `confluence`
+`python` `aws` `sql` `aws` `tableau` `jira` `confluence`
 
-### 🌐 Full portfolio
-See my project write-ups, skills breakdown, and full profile at **[srouelle.github.io](https://srouelle.github.io)**
-*(update this link once GitHub Pages is enabled — see SETUP.md)*
+### 🌐 Portfolio
+See my project write-ups, skills breakdown at my full profile at **[Full Profile](https://srouelle.github.io)**
 
 ### 📫 Reach me
 - GitHub: [@srouelle](https://github.com/srouelle)
