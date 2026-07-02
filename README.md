@@ -10,7 +10,7 @@ building automated processes that make data cleaner and teams faster.
 `python` `aws` `sql` `r` `tableau` `claude` `api connecttivity`
 
 ### 🌐 Portfolio
-See my project write-ups, skills breakdown at my full profile at **[Full Profile](https://srouelle.github.io)**
+See my project write-ups and skills breakdown at my full profile at **[Full Profile](https://srouelle.github.io)**
 
 ### 📫 Reach me
 - GitHub: [@srouelle](https://github.com/srouelle)
