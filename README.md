@@ -7,7 +7,7 @@ onboard and migrate sensitive client data at a communications software organizat
 building automated processes that make data cleaner and teams faster.
 
 ### 🔭 Currently working with
-`python` `aws` `sql` `aws` `tableau` `jira` `confluence`
+`python` `aws` `sql` `r` `tableau` `claude` `api connecttivity`
 
 ### 🌐 Portfolio
 See my project write-ups, skills breakdown at my full profile at **[Full Profile](https://srouelle.github.io)**
